@@ -1,0 +1,13 @@
+thinkscript-premium-framework/
+├─ README.md
+├─ LICENSE
+├─ /docs
+│  ├─ overview.md
+│  ├─ install-thinkorswim.md
+│  └─ examples.md
+├─ /free
+│  ├─ scalper_lite.ts
+│  └─ swing_lite.ts
+└─ /assets
+   ├─ screenshots/
+   └─ gifs/

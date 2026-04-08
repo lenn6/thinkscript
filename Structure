@@ -1,6 +1,7 @@
-thinkscript-premium-framework/
+thinkscript/
 ├─ README.md
 ├─ LICENSE
+├─ Structure
 ├─ /docs
 │  ├─ overview.md
 │  ├─ install-thinkorswim.md
